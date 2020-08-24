@@ -5690,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\MappingsSquad.csproj",
+      "projectUniqueName": "C:\\Code\\mappingimport\\mappingimport\\MappingsSquad.csproj",
       "projectName": "MappingsSquad",
-      "projectPath": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\MappingsSquad.csproj",
+      "projectPath": "C:\\Code\\mappingimport\\mappingimport\\MappingsSquad.csproj",
       "packagesPath": "C:\\Users\\RuiXu\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\obj\\",
+      "outputPath": "C:\\Code\\mappingimport\\mappingimport\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RuiXu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5771,7 +5771,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

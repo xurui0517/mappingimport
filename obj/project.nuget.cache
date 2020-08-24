@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "24WONsc0YxiZ8U+nlD1ih2EIkaxLn6kw+9fGlWlb3cQA8MeP9whiTD33XM4D11E5ixUWAWVbbimMs6quXb/iUw==",
+  "dgSpecHash": "NYHDJwJ5p3rbySl2KIj1eXrrNnODzZ5E6WvMHIZ5DYlzQJzkcy+gIzBXCwDoinLNCKRdzT1F4mgY5hRdU+CyLw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\MappingsSquad.csproj",
+  "projectFilePath": "C:\\Code\\mappingimport\\mappingimport\\MappingsSquad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RuiXu\\.nuget\\packages\\blazored.sessionstorage\\1.0.12\\blazored.sessionstorage.1.0.12.nupkg.sha512",
     "C:\\Users\\RuiXu\\.nuget\\packages\\blazorinputfile\\0.2.0\\blazorinputfile.0.2.0.nupkg.sha512",
