@@ -5690,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\mappingimport\\mappingimport\\MappingsSquad.csproj",
+      "projectUniqueName": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\MappingsSquad.csproj",
       "projectName": "MappingsSquad",
-      "projectPath": "C:\\Code\\mappingimport\\mappingimport\\MappingsSquad.csproj",
+      "projectPath": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\MappingsSquad.csproj",
       "packagesPath": "C:\\Users\\RuiXu\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\mappingimport\\mappingimport\\obj\\",
+      "outputPath": "C:\\Code\\RTFileMappingAndImportTool\\MappingsSquad\\MappingsSquad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RuiXu\\AppData\\Roaming\\NuGet\\NuGet.Config",
