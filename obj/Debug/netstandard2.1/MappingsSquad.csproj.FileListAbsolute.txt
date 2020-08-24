@@ -651,7 +651,6 @@ C:\Code\mappingimport\mappingimport\bin\Debug\netstandard2.1\System.Xml.ReaderWr
 C:\Code\mappingimport\mappingimport\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
 C:\Code\mappingimport\mappingimport\bin\Debug\netstandard2.1\System.Xml.XPath.dll
 C:\Code\mappingimport\mappingimport\bin\Debug\netstandard2.1\System.Xml.XPath.XmlDocument.dll
-C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.csprojAssemblyReference.cache
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.AssemblyInfoInputs.cache
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.AssemblyInfo.cs
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.csproj.CoreCompileInputs.cache
@@ -908,4 +907,3 @@ C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.pdb
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\-IjiDjeAtA8tuSKU8dt65dT3YXEzN16YwouL2rOG4KQ=.hash
-C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\HvVc9JeOxA09al-HpY0JO4BAJinTWfIP5Mp1KCEVJag=.hash

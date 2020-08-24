@@ -326,7 +326,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HvVc9JeOxA09al-HpY0JO4BAJinTWfIP5Mp1KCEVJag=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-IjiDjeAtA8tuSKU8dt65dT3YXEzN16YwouL2rOG4KQ=.hash",
       "Source": "C:\\Code\\mappingimport\\mappingimport\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }
