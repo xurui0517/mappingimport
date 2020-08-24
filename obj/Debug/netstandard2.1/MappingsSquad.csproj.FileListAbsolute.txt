@@ -703,7 +703,6 @@ C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\Razor\_Imports.razo
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.RazorTargetAssemblyInfo.cache
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.csproj.CopyComplete
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\euLTQmFNZveJoHMAgCXIC24mxua2qoGoHNmsiGKappA=.hash
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\nd7CzFnO5wxBimPE72cObuYPa_fGOCt0Y-kaPPdUYm8=.hash
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\WkuXkEV--B1J2kYqjuSPxgHubOHALmA548PhKTed2JE=.hash
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
@@ -908,4 +907,5 @@ C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.dll
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\MappingsSquad.pdb
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\W8XcmzEvND28uojsGjyf9s6NWi9WOtkUdfZBkIyQsqo=.hash
+C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\-IjiDjeAtA8tuSKU8dt65dT3YXEzN16YwouL2rOG4KQ=.hash
+C:\Code\mappingimport\mappingimport\obj\Debug\netstandard2.1\integrity\HvVc9JeOxA09al-HpY0JO4BAJinTWfIP5Mp1KCEVJag=.hash
