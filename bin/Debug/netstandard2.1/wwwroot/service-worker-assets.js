@@ -5,6 +5,10 @@
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
+      "hash": "sha256-q6LuXL6PzxD0kbE2HBLTfR5ZSg0WbRRRrJXDla8OahE=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-Y8eJT+7Ns0izb08MLjPQSQNjj5b4P6M\/LF07HmDV1Gk=",
       "url": "assests\/Blonde.svg"
     },
@@ -105,7 +109,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-0hoo25o9sD1nzTwtl+wgBczWeYM2gsKLn8iT0o9lxoE=",
+      "hash": "sha256-DH4U99bkWPGQHmx6QGjOZYhr6l4oBBq1ROkD8lSksbE=",
       "url": "index.html"
     },
     {
@@ -381,5 +385,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "uIdjmu14"
+  "version": "XmOzD7e4"
 };
